@@ -133,13 +133,15 @@ Activate (Windows):
 ```
 .venv\Scripts\activate\
 ```
-```
+
 
 3️⃣ Install Dependencies
+
 ```
 pip install -r requirements.txt
 ```
 4️⃣ Run App
+
 ```
 streamlit run app.py
 ```
@@ -184,4 +186,5 @@ LangGraph agent workflows
 Built by Teja Matta
 
 Project: DocuMind — AI Document Chat Assistant
+
 
