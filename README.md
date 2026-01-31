@@ -38,7 +38,7 @@ A modern ChatGPT/Gemini-style **RAG (Retrieval-Augmented Generation)** chatbot t
 
 ### ✅ High-Level Flow
 
-```txt
+```
 User Uploads / URL / Notes
         │
         ▼
@@ -127,11 +127,12 @@ cd DocuMind
 2️⃣ Create Virtual Environment
 ```
 python -m venv .venv
-
+```
 
 Activate (Windows):
-
-.venv\Scripts\activate
+```
+.venv\Scripts\activate\
+```
 ```
 
 3️⃣ Install Dependencies
@@ -181,4 +182,6 @@ LangGraph agent workflows
 👨‍💻 Author
 
 Built by Teja Matta
+
 Project: DocuMind — AI Document Chat Assistant
+
