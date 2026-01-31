@@ -21,7 +21,7 @@ os.makedirs(UPLOAD_DIR, exist_ok=True)
 # ---------------------------
 # Streamlit Setup
 # ---------------------------
-st.set_page_config(page_title="RAG Assistant", page_icon="🤖", layout="wide")
+st.set_page_config(page_title="DocuMind", page_icon="🤖", layout="wide")
 inject_global_css()
 init_chat_state()
 
