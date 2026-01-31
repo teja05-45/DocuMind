@@ -4,8 +4,8 @@ from rag.kb_state import load_kb_state
 
 def render_sidebar():
     with st.sidebar:
-        st.markdown("## 🤖 RAG Assistant")
-        st.caption("ChatGPT/Gemini UI • Multi-input RAG • Groq ⚡")
+        st.markdown("## 🤖 DocuMind")
+        st.caption("Source-grounded answers with citations 🔎")
 
         # -------------------------
         # ✅ GROQ SETTINGS CARD
